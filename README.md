@@ -1,1 +1,1 @@
-# rsschool-cv
+https://okrypets.github.io/rsschool-cv/cv
