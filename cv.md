@@ -24,16 +24,16 @@ I want to note a strong knowledge of HTML5, Css3, Sass.
 Experience with JS, TypeScript and Frameworks: React, Angular.
 Practical knowledge in Webpack, Git.
 
-## Experience
+## Experience.
 
 Latest work (which I can show) - practical tasks that were carried out as part of the courses in IT_Academy.
 You can see them by [link](https://github.com/okrypets/FD3-Studzenichnik)
 
-## Education
+## Education.
 
 - 2002-2007 BSUIR
 - 2019 (09 - 11) - IT_Academy: React and Angular.
 
-## English level
+## English level.
 
 Pre-Intermediate
