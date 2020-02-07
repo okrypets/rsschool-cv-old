@@ -1,0 +1,43 @@
+body {
+    font-family: "Helvetica", "Tahoma", sans-serif;
+    background: #f9f9f9;
+}
+.container {
+    box-sizing: border-box;
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 2em;
+    background: #ffffff;        
+}
+.container > div {
+    display: grid;
+}
+.container > div:after {
+    content: "";
+    height: 1px;
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.15);
+}
+h1 {    
+    margin: 0 0 1em;
+    text-transform: uppercase;
+}
+ul, 
+ol {
+    margin-top: 0;
+}
+ul li,
+ol li {
+    margin: 0.5em 0;
+    line-height: 1;
+}
+q {
+    padding: 1em;
+    background-color: #fffbd9;
+    border-left: 4px solid #efe6a0;    
+}
+p {
+    margin: 0 0 1em;
+}
